@@ -1,4 +1,4 @@
-# WPF-Silverlight-C-Sharp
+# WPF C# 
 A mix of small projects using these Microsoft technologies.
 
 ## Project 1 - Progress Bar Practice (WpfApp1)
